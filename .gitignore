@@ -2,3 +2,7 @@
 *.pt
 gpt2/
 __pycache__
+train.csv
+test.csv 
+validation.csv
+.ipynb_checkpoints
